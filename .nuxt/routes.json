@@ -1,0 +1,62 @@
+[
+  {
+    "name": "authors",
+    "path": "/authors",
+    "component": "/Users/robertelander/localhost/nuepress-two/pages/authors/index.vue",
+    "chunkName": "pages/authors/index",
+    "url": "/authors",
+    "_name": "_d18499c6"
+  },
+  {
+    "name": "index1",
+    "path": "/index1",
+    "component": "/Users/robertelander/localhost/nuepress-two/pages/index1.vue",
+    "chunkName": "pages/index1",
+    "url": "/index1",
+    "_name": "_09563786"
+  },
+  {
+    "name": "topics",
+    "path": "/topics",
+    "component": "/Users/robertelander/localhost/nuepress-two/pages/topics/index.vue",
+    "chunkName": "pages/topics/index",
+    "url": "/topics",
+    "_name": "_04b78e45"
+  },
+  {
+    "name": "authors-author",
+    "path": "/authors/:author",
+    "component": "/Users/robertelander/localhost/nuepress-two/pages/authors/_author.vue",
+    "chunkName": "pages/authors/_author",
+    "_name": "_d640c796"
+  },
+  {
+    "name": "pages-page",
+    "path": "/pages/:page?",
+    "component": "/Users/robertelander/localhost/nuepress-two/pages/pages/_page.vue",
+    "chunkName": "pages/pages/_page",
+    "_name": "_4251d2b5"
+  },
+  {
+    "name": "topics-topic",
+    "path": "/topics/:topic",
+    "component": "/Users/robertelander/localhost/nuepress-two/pages/topics/_topic.vue",
+    "chunkName": "pages/topics/_topic",
+    "_name": "_26b95a4d"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/robertelander/localhost/nuepress-two/pages/index.vue",
+    "chunkName": "pages/index",
+    "url": "/",
+    "_name": "_31da1bb8"
+  },
+  {
+    "name": "article",
+    "path": "/:article",
+    "component": "/Users/robertelander/localhost/nuepress-two/pages/_article.vue",
+    "chunkName": "pages/_article",
+    "_name": "_50a8d0d5"
+  }
+]
